@@ -2,7 +2,7 @@
 
 A fresh twist on the classic game — the rules randomly change every round, keeping both players on their toes.
 
-**[▶ Play it live →](#)** *(replace with your GitHub Pages URL)*
+**[▶ Play it live →](https://devoep.github.io/Tic-Tac-Toe-with-a-Twist/)** *(replace with your GitHub Pages URL)*
 
 ---
 
